@@ -1,0 +1,199 @@
+/* latest news */
+.latest-news{
+  background-color: #fff;
+  height: 35px;
+}
+
+/* Nav bar starts */
+.hero-section-nav{
+  padding: 8px 16px;
+  font-weight: 500;
+  color: var(--font-color-heading);
+  background-color: #fbdc00;
+  height: 56px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+/* Part 1 */
+
+/* SVG file already styled */
+
+/* Part - 2 */
+
+.hero-section-nav-options{
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 50px;
+}
+
+.nav-item{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: var(--font-color-heading);
+  cursor: pointer;
+  font-weight: 500;
+}
+
+/* Part - 3 */
+
+.hero-section-nav-register{
+  margin: 14px 0px 14px 0px;
+  padding-left: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login{
+  margin-right: 16px;
+  cursor: pointer;
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  color: var(--font-color-heading);
+
+  display: flex;
+  align-items: center;
+}
+
+.signup button{
+  color: #fff;
+    background-color: var(--color-primary);
+    border: 1px solid var(--color-primary);
+    height: 36px;
+    padding: 4px 16px;
+    width: 100%;
+    cursor: pointer;
+    font-family: var(--font-family);
+    border-radius: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* nav bar ends */
+
+/* hero section content */
+
+.hero-section-content-left-heading{
+  margin-bottom: 20px;
+}
+
+.hero-section-content-left-text{
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.hero-section-content-left-button{
+  background-color: white;
+  padding: 8px 16px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  display: flex;
+  width: fit-content;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 5px;
+}
+
+.whatsapp{
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.styles_label__BYVfM {
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  color: #000;
+}
+
+input{
+  background-color: #fff;
+  border: none;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+.country-code{
+  margin-right: 12px;
+}
+
+.country-code-options{
+  margin-right: 12px;
+}
+
+.styles_get_started_btn__CzkWR {
+  width: 90px;
+  padding: 2px 4px;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  background: #36bb22;
+  border: 1px solid #36bb22;
+  border-radius: 12px;
+}
+
+.hero-section-content{
+  padding: 16px 32px;
+  background: url(https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/home-banner-background-1.webp);
+  background-size: contain;
+  height: 392px;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.hero-section-content-left{
+  flex-basis: 1fr;
+}
+
+.hero-section-content-right{
+  flex-basis: 1fr;
+  display: flex;
+  height: 400px;
+  margin-bottom: -39px;
+}
+/* hero section content ends */
+
+/* data section starts */
+
+.data-section{
+  margin: 0px 16px;
+  padding: 16px;
+  height: 225px;;
+}
+
+.partthreeone {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.partthreetwo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* data - section ends */
+
+.blank-space{
+  height: 100px;
+  background-color: #fff;
+}
