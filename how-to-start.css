@@ -39,7 +39,6 @@
   font-family: var(--font-family);
   justify-content: center;
   line-height: 1.2;
-  min-width: 72px;
   height: 36px;
 }
 
@@ -52,7 +51,6 @@
   border-radius: 20px;
   background: #e5dfdf!important;
   border: grey!important;
-  min-width: 72px;
   height: 36px;
   align-items: center;
   cursor: pointer;
